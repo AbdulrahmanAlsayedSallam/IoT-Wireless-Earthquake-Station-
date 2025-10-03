@@ -90,3 +90,7 @@ PCB and wiring layout for connecting the STM32 microcontroller to the accelerome
 - Mohamed Abdelfattah
 
 ---
+
+## 📄 License
+This project is licensed under the **MIT License**.  
+You are free to **use, modify, and distribute** this code for personal or commercial purposes. 
